@@ -1,0 +1,10 @@
+{
+  "name": "agnes-ai-studio",
+  "version": "1.0.0",
+  "description": "Agnes AI 图像/视频生成 Web Studio (零依赖 Node 代理 + 原生前端)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "MIT"
+}
